@@ -40,17 +40,17 @@
     "url": "https://tools.mjyai.com/ftr/",
     "icon": "https://favicons.githubusercontent.com/tools.mjyai.com",
     "slug": "tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 490,
-    "timeDay": 237,
-    "timeWeek": 253,
-    "timeMonth": 549,
-    "timeYear": 490,
+    "time": 892,
+    "timeDay": 8002,
+    "timeWeek": 2192,
+    "timeMonth": 1025,
+    "timeYear": 892,
     "dailyMinutesDown": {}
   }
 ]
