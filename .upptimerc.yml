@@ -8,8 +8,6 @@ sites:
     url: https://blog.mjyai.com
   - name: hk
     url: https://hk.mjyai.com/ftr/
-  - name: tools
-    url: https://tools.mjyai.com/ftr/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
